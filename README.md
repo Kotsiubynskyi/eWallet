@@ -1,9 +1,9 @@
 seWallet_JPA
 ===========
-d
+
 Bionic University Project
-s
-root11
-root111
-ss
+
+root
+root
+
 sql dump file in folder "MySQLDump"
