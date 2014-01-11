@@ -1,4 +1,4 @@
-seWallet_JPA
+Wallet_JPA
 ===========
 
 Bionic University Project
